@@ -1,3 +1,3 @@
 FROM busybox
 ADD README README.txt
-ENTRYPOINT tail -f README.txt
+ENTRYPOINT tail  README.txt
